@@ -14,7 +14,7 @@ Best selling food for the month of June was Spaghetti Carbonara as well as Chick
 
 ## Data Source
 
-The data used for this analysis is contained in the `data/gourmet_bistro_sales.csv` file. It includes various attributes such as date of sale, product category, sales channel, and sales amount.
+The data used for this analysis is contained in the `data/[gourmet_bistro_sales.csv](https://github.com/Ibukun-Oluwatosin/Bistro-Restaurant-Revenue-/blob/main/gourmet_bistro_sales%202.csv)` file. It includes various attributes such as date of sale, product category, sales channel, and sales amount.
 
 ## Tools and Technologies
 
