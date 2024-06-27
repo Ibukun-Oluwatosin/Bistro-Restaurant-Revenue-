@@ -9,7 +9,7 @@ This repository contains a dashboard created to analyze and visualize bistro res
 - **Key Findings**:
 Best selling food for the month of June was Spaghetti Carbonara as well as Chicken Sandwich. Main course meal also recorded the highest sale ( £ 13,100) for the month of June. Pick hours for last month was 5am in the morning, 1pm in the afternoon and 8pm in the evening, more staffs should be available at this hours to attend to orders. Also, customers preferred to pay with their debit cards.
 
-![CUSTOMER ANALYSIS DASHBOARD](CUSTOMER ANALYSIS DASHBOARD.png)
+![CUSTOMER ANALYSIS DASHBOARD](Bistro restaurant Dashboard.png)
 
 ## Data Source
 
